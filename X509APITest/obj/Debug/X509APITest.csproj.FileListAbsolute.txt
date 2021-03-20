@@ -1,0 +1,10 @@
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\bin\Debug\X509APITest.exe.config
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\bin\Debug\X509APITest.exe
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\bin\Debug\X509APITest.pdb
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\obj\Debug\X509APITest.csprojAssemblyReference.cache
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\obj\Debug\X509APITest.csproj.CoreCompileInputs.cache
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\obj\Debug\X509APITest.csproj.CopyComplete
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\obj\Debug\X509APITest.exe
+C:\Users\SK.DESKTOP-DUN8VHF\source\repos\x509CertAPI\X509APITest\obj\Debug\X509APITest.pdb
